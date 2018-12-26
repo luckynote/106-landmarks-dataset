@@ -6,5 +6,5 @@
 ### A demo picture of our dataset with 106-point landmarks<br/>
 <div><div align=center>
   <img src="https://github.com/actionLUO/106-landmarks-dataset/blob/master/image.png" width="224" height="224" alt="demo"/><br/>
-#### License: MIT
+License: MIT
 
