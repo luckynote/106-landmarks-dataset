@@ -26,5 +26,6 @@ if __name__ == '__main__':
             landmarks = np.reshape(landmarks, (-1, 2))
             for (x, y) in landmarks:
                 cv2.circle(img, (int(x), int(y)), 2, (255, 0, 0), -1)
+            # cv2.imwrite("image.png", img)
             cv2.imshow("image", img)
             cv2.waitKey(0)
